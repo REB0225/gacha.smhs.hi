@@ -16,4 +16,4 @@ then download the x86_64 file!
 
 if error "VCRUNTIME140.dll isn't found", please go to https://www.microsoft.com/zh-tw/download/details.aspx?id=48145 to download VS2015
 
-如果遇到「未找到VCRUNTIME140.dll」請至https://www.microsoft.com/zh-tw/download/details.aspx?id=48145 下載VS2015
+如果遇到「未找到VCRUNTIME140.dll」請至 https://www.microsoft.com/zh-tw/download/details.aspx?id=48145 下載VS2015
