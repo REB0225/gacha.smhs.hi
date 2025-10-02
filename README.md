@@ -17,3 +17,7 @@ then download the x86_64 file!
 if error "VCRUNTIME140.dll isn't found" or can't even open, please go to https://aka.ms/vs/17/release/vc_redist.x64.exe to download Visual Studio c++
 
 如果遇到「未找到VCRUNTIME140.dll」或者無法開啟，請至 https://aka.ms/vs/17/release/vc_redist.x64.exe 下載Visual Studio C++
+
+please add the assets into the source code folder when testing
+
+在測試時請將assets放入source code 資料夾中
